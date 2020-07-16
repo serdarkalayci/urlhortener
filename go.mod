@@ -1,4 +1,4 @@
-module learngo.io/urlshortener
+module github.com/serdarkalayci/urlshortener
 
 go 1.13
 

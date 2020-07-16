@@ -1,1 +1,3 @@
 urlshortener
+.vscode/**
+main/__debug_bin
